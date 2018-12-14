@@ -1,6 +1,7 @@
 import random
 def main():
 	print("Welcome to Tic-Tae-Toe")
+	print("Let's Play!")
 	while True:
 		ans = str(input("Do you want to play Tic-Tae-Toe? Yes or No? "))
 		if ans == 'No':
